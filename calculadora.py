@@ -51,8 +51,3 @@ while True:
 
 
 
-
-nome = salvador
-for letra in nome:
-    print(nome)
-    

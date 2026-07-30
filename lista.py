@@ -41,3 +41,4 @@ while True:
             print(i, valor)
     else:
         print('Por favor, escolha i, a ou l.')
+        
